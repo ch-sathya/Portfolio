@@ -1,5 +1,5 @@
 ﻿# Sathya Cheela Portfolio
-## https://sathya-cheela-portfolio.vercel.app
+## https://sathyacheela-portfolio.vercel.app/
 Personal portfolio built with React, TypeScript, Vite, and Tailwind CSS.
 
 ## Run locally
