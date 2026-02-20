@@ -24,7 +24,7 @@ const ContactSection = () => {
   ];
 
   const socialLinks = [
-    { icon: Github, href: "https://github.com/sathya-ch", label: "GitHub" },
+    { icon: Github, href: "https://github.com/ch-sathya", label: "GitHub" },
     { icon: Linkedin, href: "https://linkedin.com/in/sathya-cheela", label: "LinkedIn" },
     { icon: Mail, href: "mailto:cheela.sathya@gmail.com", label: "Email" },
   ];

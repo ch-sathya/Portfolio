@@ -1,4 +1,4 @@
-﻿import { Github, Linkedin, Mail, ChevronDown, ArrowRight } from "lucide-react";
+import { Github, Linkedin, Mail, ChevronDown, ArrowRight } from "lucide-react";
 import { useState, useEffect, useRef } from "react";
 import heroBg from "@/assets/hero-bg.jpg";
 
@@ -197,7 +197,7 @@ const HeroSection = () => {
             <ArrowRight className="w-4 h-4 group-hover:translate-x-0.5 transition-transform" />
           </a>
           <a
-            href="https://github.com/sathya-ch"
+            href="https://github.com/ch-sathya"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-7 py-3 border border-foreground/20 text-foreground font-medium text-sm rounded-full hover:bg-foreground/10 backdrop-blur-sm transition-all duration-300"

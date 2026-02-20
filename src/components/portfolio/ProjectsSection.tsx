@@ -27,7 +27,7 @@ const projects: Project[] = [
     ],
     technologies: ["Python", "Pandas", "NumPy", "Scikit-learn", "Matplotlib", "Jupyter"],
     category: "AI/ML",
-    github: "https://github.com/sathya-ch",
+    github: "https://github.com/ch-sathya",
   },
   {
     id: 2,
@@ -41,7 +41,7 @@ const projects: Project[] = [
     ],
     technologies: ["HTML", "CSS", "JavaScript", "VS Code"],
     category: "Web",
-    github: "https://github.com/sathya-ch",
+    github: "https://github.com/ch-sathya",
   },
   {
     id: 3,
@@ -55,7 +55,7 @@ const projects: Project[] = [
     ],
     technologies: ["Python", "PostgreSQL", "Dlib", "Machine Learning"],
     category: "AI/ML",
-    github: "https://github.com/sathya-ch",
+    github: "https://github.com/ch-sathya",
   },
 ];
 
@@ -126,7 +126,7 @@ const ProjectsSection = () => {
 
               <div className="pt-8 border-t border-border/30">
                 <a
-                  href={selectedProject.github || "https://github.com/sathya-ch"}
+                  href={selectedProject.github || "https://github.com/ch-sathya"}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 px-6 py-3 bg-foreground text-background text-sm font-medium rounded-full hover:bg-foreground/90 transition-all"
