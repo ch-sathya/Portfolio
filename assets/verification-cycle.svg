@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" fill="none">
+  <rect width="1200" height="900" fill="#121711"/>
+  <g stroke="#B5D58B" stroke-opacity=".14">
+    <path d="M0 75H1200M0 150H1200M0 225H1200M0 300H1200M0 375H1200M0 450H1200M0 525H1200M0 600H1200M0 675H1200M0 750H1200M0 825H1200M75 0V900M150 0V900M225 0V900M300 0V900M375 0V900M450 0V900M525 0V900M600 0V900M675 0V900M750 0V900M825 0V900M900 0V900M975 0V900M1050 0V900M1125 0V900"/>
++  </g>
++  <text x="64" y="72" fill="#B5D58B" font-family="monospace" font-size="20" letter-spacing="3">VERIFICATION / REPEATABLE BY DESIGN</text>
++  <g font-family="monospace">
++    <g transform="translate(64 270)">
++      <rect width="300" height="330" rx="8" fill="#1C241C" stroke="#718566" stroke-width="2"/>
++      <text x="28" y="46" fill="#A8B0A4" font-size="14" letter-spacing="2">01 / DEFINE</text>
++      <path d="M35 105H260M35 145H220M35 185H245" stroke="#708568" stroke-width="3" stroke-linecap="round"/>
++      <rect x="35" y="225" width="225" height="66" rx="4" fill="#151A15" stroke="#B5D58B"/>
++      <path d="m61 256 12 12 26-30" stroke="#B5D58B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
++      <path d="M118 258H235" stroke="#66785B" stroke-width="3" stroke-linecap="round"/>
++    </g>
++    <path d="M395 435H460m-18-15 18 15-18 15" stroke="#B5D58B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
++    <g transform="translate(480 270)">
++      <rect width="300" height="330" rx="8" fill="#1C241C" stroke="#718566" stroke-width="2"/>
++      <text x="28" y="46" fill="#A8B0A4" font-size="14" letter-spacing="2">02 / AUTOMATE</text>
++      <rect x="35" y="92" width="230" height="155" rx="5" fill="#151A15" stroke="#53644C"/>
++      <path d="M55 204 91 172l34 19 43-53 38 29 38-20" stroke="#B5D58B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
++      <circle cx="244" cy="147" r="6" fill="#B5D58B"/>
++      <path d="M35 278H265" stroke="#5A6D51" stroke-width="3" stroke-linecap="round"/>
++      <circle cx="35" cy="278" r="6" fill="#B5D58B"/>
++    </g>
++    <path d="M810 435H875m-18-15 18 15-18 15" stroke="#B5D58B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
++    <g transform="translate(895 270)">
++      <rect width="240" height="330" rx="8" fill="#1C241C" stroke="#718566" stroke-width="2"/>
++      <text x="26" y="46" fill="#A8B0A4" font-size="14" letter-spacing="2">03 / REVIEW</text>
++      <circle cx="120" cy="160" r="58" fill="#151A15" stroke="#B5D58B" stroke-width="2"/>
++      <path d="m91 160 19 19 42-46" stroke="#B5D58B" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
++      <path d="M38 254H202M64 280H176" stroke="#65775B" stroke-width="3" stroke-linecap="round"/>
++    </g>
++  </g>
++  <text x="64" y="835" fill="#A8B0A4" font-family="monospace" font-size="16" letter-spacing="2">ILLUSTRATIVE WORKFLOW / NOT A TEST RESULT</text>
++</svg>
